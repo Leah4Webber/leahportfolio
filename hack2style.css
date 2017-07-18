@@ -1,0 +1,25 @@
+/*leah*/
+#home{text-align: center;text-transform: capitalize;color:#A00A2C ;background-color:#F5D6DD ;width:900px;height:100px;font-family:"courier bold";font-size:70px;list-style: none;}
+#about{text-align: center;text-transform: capitalize;color:#A00A2C ;width:450px;height:450px ;float:left;font-family:"courier bold";font-size:50px;list-style: none;}
+#recipes{text-align: center;text-transform: capitalize;color:#A00A2C;width:450px;height:450px ;float:left;font-family:"courier bold";font-size:50px;list-style: none;}
+#order{text-align: center;text-transform: capitalize;color:#A00A2C;width:450px;height:450px ;float:left;font-family:"courier bold";font-size:50px;list-style: none;}
+#contact{text-align: center;text-transform: capitalize;color:#A00A2C ;width:450px;height:450px ;float:left;font-family:"courier bold";font-size:50px;list-style: none;}
+#beets{text-align: center;text-transform: capitalize;color:#F5D6DD ;width:950px;height:225px; clear:both;font-family:"courier bold";font-size:40px;list-style: none;}
+
+/*lyanne*/
+#about 
+{    background: #ffffff url("https://pixel.nymag.com/imgs/daily/vulture/2017/05/16/16-kevin-bacon.w710.h473.jpg") no-repeat right top;
+}#recipes {
+    background: #ffffff url("http://photos.geni.com/p10/1994/9700/5344483818327733/bacon_kevin_young_actor_head_large.jpg") no-repeat right top;
+    background-size: cover;
+}#order {
+    background: #ffffff url("https://i.ytimg.com/vi/qxXXtYAzi10/hqdefault.jpg") no-repeat right top;
+    background-size: cover;
+}
+#contact {
+    background: #ffffff url("http://www.freakingnews.com/pictures/76000/Kevin-Bacon-Pig--76015.jpg") no-repeat right top;
+    background-size: cover;
+}
+#beets {
+    background: #ffffff url("http://demandware.edgesuite.net/sits_pod32/dw/image/v2/BBBW_PRD/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dw1221a03b/images/catbanner/vegetables/beets_bn.jpg?sw=920") no-repeat right top;
+}
