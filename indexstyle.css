@@ -4,16 +4,18 @@ h1{text-align:center;font-size:100px; font-family:cursive; height:150px;}
     width: 900px;
 }
 
-#header{text-align:center;font-size:100px; font-family:cursive;background-color:#416C60 ; height:150px; width:100%;margin-bottom:0px;padding-top:30px; box-sizing: border-box;}
+#header{text-align:center;font-size:100px; font-family:cursive;background-color:#497467   ; height:150px; width:100%;margin-bottom:0px;padding-top:30px; box-sizing: border-box;}
 
-#header2{background-color:#416C60 ; height:100px; width:100%;text-align:center;font-size:50px;font-family:cursive;box-sizing: border-box;}
+#header2{background-color:#497467   ; height:100px; width:100%;text-align:center;font-size:50px;font-family:cursive;box-sizing: border-box;}
 
 #home{background-color:#5F897E;height:150px;width:900px;text-align:center;font-size:40px;} #home_button{font-size:40px;font-family:cursive;background-color:#5F897E;}
-#truths{background-color:#789E94;height:150px;width:900px;text-align:center;font-size:40px;} #truths_button{font-size:40px;font-family:cursive;background-color:#789E94;}
+#truths{background-color:#729F93;height:150px;width:900px;text-align:center;font-size:40px;} #truths_button{font-size:40px;font-family:cursive;background-color:#729F93;}
 #hack1{background-color:#8BBBAF;height:150px;width:900px;text-align:center;font-size:40px;} #hack1_button{font-size:40px;font-family:cursive;background-color:#8BBBAF;}
 #hack2{background-color:#A4D2C6;height:150px;width:900px;text-align:center;font-size:40px;} #hack2_button{font-size:40px;font-family:cursive;background-color:#A4D2C6;}
 #jokes{background-color:#C0E9DF;height:150px;width:900px;text-align:center;font-size:40px;} #jokes_button{font-size:40px;font-family:cursive;background-color:#C0E9DF;}
 
+
+body{background-color:#D9F1EB;}
 div {
     margin: auto;
 }
