@@ -4,10 +4,21 @@ img{
 img:hover {
     opacity: 0.7;}
     
+#pigs{text-align:center;}
+#submit{font-size:30px;font-family:cursive;background-color:#EADAE5;}
+    
+#dog{text-align:center;}
+
 .opacity {
     opacity: 0.5;
 }
 
+h1{font-family:cursive; font-size:70px;text-align:center;}
+.question{font-family:cursive; font-size:30px;text-align:center;}
+
+.allpics{text-align:center;}
+
+body{background-color:#EADAE5;}
 
 
 #q1pic1{height:200px;width:200px;}
@@ -49,5 +60,7 @@ img:hover {
 #q8pic2{height:200px;width:350px;}
 #q8pic3{height:200px;width:200px;}
 #q8pic4{height:200px;width:300px;}
+
+
 
 
