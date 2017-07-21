@@ -1,6 +1,7 @@
 var points=0;
 
 $("img").click(function(){
+    
     $(this).toggleClass("opacity");
 });
 
@@ -21,6 +22,8 @@ points=points+3;
 $(".pic4").click(function(){
 points=points+4;
 });
+
+
 
 $("#submit").click(function(){
     if (points<12){
