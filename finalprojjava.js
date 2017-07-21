@@ -26,10 +26,10 @@ points=points+4;
 
 
 $("#submit").click(function(){
-    if (points<13){
+    if (points<14){
         $("#cat").attr("src", "http://s3.weddbook.com/t1/2/5/6/2569276/2-ct-engagement-ring-4-prong-classic-solitaire-ring-man-made-diamond-simulant-round-wedding-ring-sterling-silver-rose-gold-plated.jpg");
     }
-    else if (points >12 && points<21){
+    else if (points >13 && points<21){
         $("#cat").attr("src", "https://www.loveandpromisejewelers.com/media/catalog/product/cache/1/image/670x500/9df78eab33525d08d6e5fb8d27136e95/m/a/mae_9x7mm_14kt_rose_gold_oval_fb_moissanite_and_diamond_halo_with_milgrain_engagement_ring_3.jpg");
     }
     else if (points >20 && points<26){
