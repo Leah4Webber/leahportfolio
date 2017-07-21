@@ -1,5 +1,9 @@
 var points=0;
 
+$("img").click(function(){
+    $(this).toggleClass("opacity");
+});
+
 $(".pic1").click(function(){
 points=points+1;
 });
